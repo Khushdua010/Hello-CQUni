@@ -59,4 +59,4 @@ jobs:
           app-name: 'KHUSHCQUniAzure'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67FB6F5D405C4306AB22F85252EACED0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_110643315FDD48719928DB0575E144B6 }}
